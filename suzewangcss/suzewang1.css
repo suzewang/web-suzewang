@@ -27,7 +27,7 @@
 	height:21px;
 	border-right:1px solid gray;
 	position:absolute;
-	left:1160px;
+	left:1150px;
 	top:58px;
 }
 .sel:hover{
@@ -246,12 +246,12 @@ input{
 	top:192px;
 }
 .dian{
-	position:absolute;
 	top:1566px;
 	background-color:rgb(11,66,152);
 	height:64px;
 	width:1600px;
 	color:white;
+	position:absolute;
 }
 .yu{
 	width:1600px;
@@ -283,4 +283,135 @@ input{
 	position:absolute;
 	left:32px;
 	top:25px;
+}
+.anniu:hover{
+    cursor:pointer; 
+}
+.anniu{
+	border:0;
+	background-color:white;
+	color:red;
+	font-size:15px;
+	position:absolute;
+    top:1341px;
+    left:535px;
+}
+.yi{
+	width:1600px;
+	height:308px;
+	background-color:rgb(69,69,69);
+	position:absolute;
+	top:1849px;
+}
+.huan{
+	width:1600px;
+	height:1208px;
+	background-color:rgb(249,249,249);
+	position:absolute;
+	top:152px;
+}
+.jing{
+	position:absolute;
+	left:197px;
+	top:99px;
+}
+.yan{
+	width:1197px;
+	height:608px;
+	position:absolute;
+	left:199px;
+	top:536px;
+	background-color:white;
+}
+.zhen{
+	 left:35px;
+}
+.zhe{
+	left:323px;
+}
+.zh{
+	left:614px;
+}
+.z{
+	left:901px;
+}
+.dong{
+	position:absolute;
+	top:18px;
+	text-align:center;
+	border:1px solid rgb(237,237,237);
+	height:228px;
+	width:272px;
+}
+.hd{
+	margin-top:13px;
+}
+.shi{
+	position:absolute;
+	top:324px;
+	text-align:center;
+	border:1px solid rgb(237,237,237);
+	height:228px;
+	width:272px;
+}
+.what{
+	top:1793px;
+	background-color:rgb(11,66,152);
+	height:64px;
+	width:1600px;
+	color:white;
+	position:absolute;
+}
+.wha{
+	top:1360px;
+	background-color:rgb(11,66,152);
+	height:64px;
+	width:1600px;
+	color:white;
+	position:absolute;
+}
+.bian{
+	width:1600px;
+	height:308px;
+	background-color:rgb(69,69,69);
+	position:absolute;
+	top:1424px;
+}
+.wu{
+	width:1600px;
+	height:927px;
+	position:absolute;
+	top:154px;
+	background-color:rgb(249,249,249);
+}
+.de{
+	width:1199px;
+	height:594px;
+	position:absolute;
+	left:196px;
+	top:192px;
+	background-color:white;
+}
+.mu{
+	position:absolute;
+	left:31px;
+	top:25px;
+}
+.zai{
+	line-height:25px;
+}
+.wh{
+	top:1081px;
+	background-color:rgb(11,66,152);
+	height:64px;
+	width:1600px;
+	color:white;
+	position:absolute;
+}
+.bia{
+	width:1600px;
+	height:308px;
+	background-color:rgb(69,69,69);
+	position:absolute;
+	top:1142px;
 }
